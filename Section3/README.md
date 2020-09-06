@@ -1,6 +1,6 @@
 # Expected results
 
-Artefacts from Section 3: 
+Artifacts from Section 3: 
   
 * Code that runs inference on a DICOM volume and produces a DICOM report
 * A report.dcm file with a sample report
