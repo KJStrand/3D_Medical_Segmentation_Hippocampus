@@ -10,7 +10,7 @@ U-net model is applied to CT brain scan to segment volume of the hippocampus. Me
 
 Sample Result DICOM with Hippocampal Volume Segmentation:
 
-![](Section3\OHIF_Report.PNG)
+![](Section3/OHIF_Report.PNG)
 
 Section 1: Exploratory Data Analysis
 
