@@ -13,6 +13,8 @@ Hippocampal Volume Report:
 
 Section 3: Integrating into a Clinical Network
 
+Udacity Instructions:
+
 In Section 3, we create an AI product that can be integrated into a clinical network and provide the auto-computed information on the hippocampal volume to the clinicians.
 
 Install and configure:
