@@ -1,4 +1,4 @@
-# Expected results
+# Curating a Dataset of Brain MRIs
 
 Artifacts from Section 1:  
   
